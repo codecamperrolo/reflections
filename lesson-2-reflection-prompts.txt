@@ -2,14 +2,15 @@ What happens when you initialize a repository? Why do you need to do it?
 
 We get a hidden .git file. We do this in order to create a repository.
 
-How is the staging area different from the working directory and the repository?
+How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 
-Staging area is an area where I add files in order to be committed, in order to add files
-I need to make a repository in the working directory.
+Commits will be made from all the files present in the staging area. Files in the working directory won't be commited. In order to make a commit i need to add my files from the working directory into the staging area and then i can commit. Finally the repository will contain all the commits i've made so far.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+By adding one file at a time. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
