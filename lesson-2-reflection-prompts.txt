@@ -19,6 +19,8 @@ It would be helpful when we want to create a different version of the code, but 
 
 How do the diagrams help you visualize the branch structure?
 
+Help us understand the hierarchy and therefore understand the reachability of git log
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
