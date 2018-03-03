@@ -24,5 +24,7 @@ Help us understand the hierarchy and therefore understand the reachability of gi
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result are all the changes introduced on both files. A diagram of all the commits and branches helps us visualize better how is the hierarchy.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
