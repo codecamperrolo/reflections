@@ -28,3 +28,5 @@ The result are all the changes introduced on both files. A diagram of all the co
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros: Easy to do. Will inform the user whenever there is a conflict.
+Cons: None
