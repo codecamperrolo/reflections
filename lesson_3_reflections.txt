@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A/ Whenever I want to share my repository to the global community in order to get some help or give the global community my code.
